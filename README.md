@@ -17,3 +17,8 @@ Bonus Program
 Charlene's idea is to attract as many regular‘s as possible to have a steady turnaround.
 She decides to offer a customer stamp card, where every 5th beverage is for free.
 If a customer orders a beverage and a snack, one of the extra's is free
+
+To Execute the Program, go in target directory and run 
+
+java -jar .\CCC-v.1.0.jar
+
